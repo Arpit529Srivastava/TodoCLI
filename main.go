@@ -5,10 +5,11 @@ package main
 
 import (
 	"todocli/cmd"
+	"fmt"
 )
 
 func main() {
 	cmd.Execute()
-	//fmt.Println("hai na ho gaya XD")
+	fmt.Println("finallyy done")
 	 
 }
