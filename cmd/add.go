@@ -25,7 +25,7 @@ var addCmd = &cobra.Command{
 	}, // on running ye chalega
 }
 
-func addTask(task, taskFile string) {
+   func addTask(task, taskFile string) {
 	var tasks []map[string]interface{}
 
 	// Open the task file
